@@ -1,0 +1,10 @@
+# 规则名称:AbemaTV
+# 规则统计:5
+
+domain_suffix_set:
+  - abema.io
+  - abema.tv
+  - ameba.jp
+  - hayabusa.io
+domain_keyword_set:
+  - abematv.akamaized.net
